@@ -29,6 +29,8 @@ Share API – For social sharing
 
 ## Created By
 
-Sumaira Ramzan 
+Sumaira Ramzan  As A Part of Internship in CodeAlpha
 
-As A Part of Internship in CodeAlpha
+GitHub: @sumairaramzan244
+
+LinkedIn: www.linkedin.com/in/sumaira-ramzan
