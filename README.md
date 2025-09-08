@@ -27,9 +27,9 @@ Animated API – Smooth transitions and effects
 Share API – For social sharing
 
 
-## Created By
+# 👩‍💻 Author
 
-Sumaira Ramzan  As A Part of Internship in CodeAlpha
+ By Sumaira Ramzan  As A Part of Internship in CodeAlpha
 
 GitHub: @sumairaramzan244
 
