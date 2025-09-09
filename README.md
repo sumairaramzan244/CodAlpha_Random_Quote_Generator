@@ -1,4 +1,4 @@
-  📖**Random Quote Generator**
+  ## 📖**Random Quote Generator**
 
 A beautifully styled React Native mobile app that displays random inspirational quotes across multiple categories. The app includes smooth animations, elegant gradients, and sharing functionality to deliver an engaging user experience.
 
