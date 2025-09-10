@@ -31,6 +31,6 @@ Share API – For social sharing
 
  By Sumaira Ramzan  As A Part of Internship in CodeAlpha
 
-GitHub: @sumairaramzan244
+- 🌐 GitHub: https://github.com/sumairaramzan244 
+- 💼 LinkedIn: https://www.linkedin.com/in/sumaira-ramzan 
 
-LinkedIn: www.linkedin.com/in/sumaira-ramzan
